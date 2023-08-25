@@ -1,4 +1,6 @@
-### Hi there 👋
+#A junior software engineer, I'm most intrigued by systems-level problems and how to best improve the experience of users.
+
+I'm currently working on...
 
 <!--
 **codysharma/codysharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
