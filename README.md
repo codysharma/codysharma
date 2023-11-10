@@ -3,3 +3,7 @@ I'm most intrigued by systems-level problems and how to best improve the experie
 Check out my projects: 
 
 [hangman game](https://codysharma.github.io/SpacemanGame/) which incorporates a random word pulled via API for solo use.
+
+Skills: 
+Add skills/knowledge list
+Style them as buttons
