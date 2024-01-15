@@ -1,4 +1,6 @@
-I'm most intrigued by systems-level problems and how to best improve the experience of users. I'm currently working on a [recipe](https://github.com/codysharma/recipeWebsite) database website with multiple functions - not yet deployed. 
+I'm most intrigued by systems-level problems and how to best improve the experience of users. I'm currently working on full stack inventory system using Django - not yet deployed.
+
+[My website](https://codysharma.github.io/me/)
 
 Check out my projects: 
 
