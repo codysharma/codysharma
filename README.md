@@ -8,7 +8,7 @@ Check out my projects:
 
 [Recipe Website](https://github.com/codysharma/recipeWebsite) which uses MongoDB to create a full stack application pulling JSON data from the noSQL database. Also utilizes a JWT as a gatekeeper on functionality behind the log-in feature.
 
-[hangman game](https://codysharma.github.io/SpacemanGame/) a version of the hangmate word game which incorporates a random word pulled via API for solo use.
+[Spaceman](https://codysharma.github.io/SpacemanGame/) a version of the hangmate word game which incorporates a random word pulled via API for solo use.
 
 Skills: 
 Add skills/knowledge list
