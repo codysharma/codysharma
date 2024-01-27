@@ -2,6 +2,6 @@ I'm most intrigued by systems-level problems and how to best improve the experie
 
 [Personal website](https://codysharma.github.io/me/)
 
-Skills: 
-Add skills/knowledge list
+Skills:  
+Add skills/knowledge list  
 Style them as buttons
